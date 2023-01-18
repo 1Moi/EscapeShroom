@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 22
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 92
+  controlID: 23
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 93
+  controlID: 24
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -326,14 +326,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\m_galea1\Documents\GitHub\EscapeShroom
+  m_LastProjectPath: C:\Users\Draix\Documents\GitHub\EscapeShroom
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: aeb90000
-    m_LastClickedID: 47534
-    m_ExpandedIDs: 00000000aab9000000ca9a3bffffff7f
+    m_SelectedIDs: c4b90000
+    m_LastClickedID: 47556
+    m_ExpandedIDs: 00000000c0b9000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,10 +490,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 733}
+      scrollPos: {x: 0, y: 109}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 00befaffdefcfaff2e06fdff46eafeff70b7ffff66baffff7eba0000deba000016bb000024bd0000
+      m_ExpandedIDs: 10b7ffff68baffff5ebb0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -743,9 +743,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 47.41042, y: -9.584957, z: 6.8369036}
+    m_Target: {x: 41.9537, y: -4.0372334, z: 3.06002}
     speed: 2
-    m_Value: {x: 47.41042, y: -9.584957, z: 6.8369036}
+    m_Value: {x: 41.9537, y: -4.0372334, z: 3.06002}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -792,13 +792,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.28138453, y: 0.19178364, z: -0.057568558, w: -0.9384937}
+    m_Target: {x: -0.36738294, y: 0.5849365, z: -0.33560243, w: -0.6405415}
     speed: 2
-    m_Value: {x: -0.28146452, y: 0.1903716, z: -0.05714519, w: -0.9387602}
+    m_Value: {x: -0.367375, y: 0.5849238, z: -0.33559516, w: -0.6405276}
   m_Size:
-    m_Target: 14.834612
+    m_Target: 8.02991
     speed: 2
-    m_Value: 14.195801
+    m_Value: 8.02991
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -885,7 +885,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
